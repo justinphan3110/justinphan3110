@@ -13,6 +13,8 @@
 String myName = "Long Phan";
 String myFullName = "Phan Nguyen Hoang Long";
 String myGoalsIn5Years = "Getting a PHD in AI";
+String myGoalsIn10Years = "Working and Meeting Great People and Investing in myself";
+String myGoalsIn20Years = "Becoming a Tech Investor/Influencer/Speaker";
 ```
 
 ## Features
@@ -21,8 +23,8 @@ String myGoalsIn5Years = "Getting a PHD in AI";
 
 📝  Working on a paper named "Hierarchical Transformer Encoders for Vietnamese Spelling Correction" proposing a first Hierarchical Transformer model for Vietnamese spelling correction problem 
 
-## Support 
-☕️    I love coffee so just send me a mesage on facebook or instagram then we can meet up.
+## Connect 
+☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up.
 
 ## Contribution
 ![Long Phan's github stats](https://github-readme-stats.vercel.app/api?username=justinphan3110&show_icons=true&theme=radical)
