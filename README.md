@@ -10,8 +10,8 @@
 ## Getting Started
 
 ```
-String myName = Long Phan;
-String myFullName = Phan Nguyen Hoang Long;
+String myName = "Long Phan";
+String myFullName = "Phan Nguyen Hoang Long";
 String myGoalsIn5Years = "Getting a PHD in AI";
 ```
 
@@ -19,7 +19,7 @@ String myGoalsIn5Years = "Getting a PHD in AI";
 
 📝  An AI Engineer working on Ki-Ki, the first Vietnamese intelligent personal assistant at Zalo Group / VNG Corportation
 
-📝  Working on a paper named "Hierarchical Transformer Encoders for Vietnamese Spelling Correction" proposing a Hierarchical Transformer model for Vietnamese spelling correction problem 
+📝  Working on a paper named "Hierarchical Transformer Encoders for Vietnamese Spelling Correction" proposing a first Hierarchical Transformer model for Vietnamese spelling correction problem 
 
 ## Support 
 ☕️    I love coffee so just send me a mesage on facebook or instagram then we can meet up.
