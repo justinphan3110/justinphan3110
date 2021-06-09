@@ -2,7 +2,17 @@
 <a href="https://www.facebook.com/phanlongboy1"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/longphann/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/long-phan-3110//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
+ 
+ 
+ ## My publications
   
+  📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
+  
+  📝 <a href="https://arxiv.org/abs/2105.08645">CoTexT: Multi-task Learning with Code-Text Transformer</a>
+  
+  📝 <a href="https://arxiv.org/abs/2105.13578">Hierarchical Transformer Encoders for Vietnamese Spelling Correction</a>
+  
+  📝 <a href="https://arxiv.org/abs/2012.07557">Leveraging Transfer Learning for Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL)</a>
  <details>
  <summary><strong> More Details </strong></summary>
 
