@@ -7,7 +7,9 @@
  ## My publications
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
-  
+ 
+  📝 <a href="https://arxiv.org/abs/2106.09997">SPBERT: An Efficient Pre-training BERT on SPARQL Queries for Question Answering over Knowledge Graphs</a>
+
   📝 <a href="https://arxiv.org/abs/2105.08645">CoTexT: Multi-task Learning with Code-Text Transformer</a>
   
   📝 <a href="https://arxiv.org/abs/2105.13578">Hierarchical Transformer Encoders for Vietnamese Spelling Correction</a>
