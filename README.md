@@ -32,15 +32,7 @@
 String myName = "Long Phan";
 String myFullName = "Phan Nguyen Hoang Long";
 String myGoalsIn5Years = "Getting a PHD in AI";
-String myGoalsIn10Years = "Working and Meeting Great People and Investing in myself";
-String myGoalsIn20Years = "Becoming a Tech Investor/Influencer/Speaker";
 ```
-
-## Features
-
-📝  An AI Engineer working on Ki-Ki, the first Vietnamese intelligent personal assistant at Zalo Group / VNG Corportation
-
-📝  Working on a paper named "Hierarchical Transformer Encoders for Vietnamese Spelling Correction" proposing a first Hierarchical Transformer model for Vietnamese spelling correction problem 
 
 ## Connect 
 ☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up.
