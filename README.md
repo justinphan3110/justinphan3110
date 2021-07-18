@@ -4,6 +4,13 @@
 <a href="https://www.linkedin.com/in/long-phan-3110//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en"><img height="30" src="https://raw.githubusercontent.com/justinphan3110/justinphan3110/master/icons/google_scholar.png"></a>&nbsp;&nbsp;
 
+ 
+<div align="center">
+<h4> Deep Learning Research at National Institute of Health (NIH) | AI Research Intern at Samsung Research America </h4> 
+</div>
+
+ 
+ 
  ## My publications
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
