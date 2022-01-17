@@ -4,9 +4,11 @@
 <a href="https://www.linkedin.com/in/long-phan-3110//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en"><img height="30" src="https://raw.githubusercontent.com/justinphan3110/justinphan3110/master/icons/google_scholar.png"></a>&nbsp;&nbsp;
 
- 
+
+ ## About me 
 <div align="center">
- <h4> Software Engineering Intern at Coinbase </h4> 
+ <h4> Software Engineering Intern at <img height="20" src="https://github.com/justinphan3110/justinphan3110/blob/master/icons/Coinbase.svg.png" </h4> 
+ <h4> Guest NLP Researcher - BigScience Workshop at HuggingFace <img height="30" src="https://github.com/justinphan3110/justinphan3110/blob/master/icons/huggingface.png" </h4>
  <h4> AI Research Intern at Samsung Research America</h4>
 <h4> Deep Learning Research at National Institute of Health (NIH) </h4> 
 </div>
@@ -22,6 +24,8 @@
   📝 <a href="https://aclanthology.org/2021.nlp4prog-1.5/">CoTexT: Multi-task Learning with Code-Text Transformer</a>
   
   📝 <a href="https://arxiv.org/abs/2105.13578">Hierarchical Transformer Encoders for Vietnamese Spelling Correction</a>
+  
+  📝 <a href="https://arxiv.org/abs/2110.04257">VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?</a>
   
   📝 <a href="https://arxiv.org/abs/2012.07557">Leveraging Transfer Learning for Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL)</a>
  <details>
