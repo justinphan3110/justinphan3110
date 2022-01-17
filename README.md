@@ -6,10 +6,10 @@
 
 
  ## About me 
-<div align="center">
+<div align="left">
  <h4> Software Engineering Intern at <img height="20" src="https://github.com/justinphan3110/justinphan3110/blob/master/icons/Coinbase.svg.png" </h4> 
  <h4> Guest NLP Researcher - BigScience Workshop at HuggingFace <img height="30" src="https://github.com/justinphan3110/justinphan3110/blob/master/icons/huggingface.png" </h4>
- <h4> AI Research Intern at Samsung Research America</h4>
+ <h4> AI Research Intern at Samsung Research America <h4>
 <h4> Deep Learning Research at National Institute of Health (NIH) </h4> 
 </div>
 
