@@ -6,6 +6,7 @@
 
  
 <div align="center">
+ <h4> Software Engineering Intern at Coinbase </h4> 
 <h4> Deep Learning Research at National Institute of Health (NIH) | AI Research Intern at Samsung Research America </h4> 
 </div>
 
