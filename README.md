@@ -19,7 +19,8 @@
 
  
  
- ## My publications
+ ## Publications
+  📝 <a href="https://arxiv.org/abs/2205.06457">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a>
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
  
@@ -32,6 +33,14 @@
   📝 <a href="https://arxiv.org/abs/2110.04257">VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?</a>
   
   📝 <a href="https://arxiv.org/abs/2012.07557">Leveraging Transfer Learning for Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL)</a>
+  
+  ## Blogs
+  
+  🌸 <a href="https://translate.vietai.org/">MTet: Multi-domain Translation for English and Vietnamese</a>
+  
+  
+  
+  
  <details>
  <summary><strong> More Details </strong></summary>
 
