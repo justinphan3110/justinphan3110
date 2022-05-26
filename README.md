@@ -19,7 +19,7 @@
 
  
  
- ## Publications
+ ## Recent Works
   📝 <a href="https://arxiv.org/abs/2205.06457">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a>
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
