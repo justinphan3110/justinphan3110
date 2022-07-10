@@ -36,7 +36,9 @@
   
   ## Blogs
   
-  🌸 <a href="https://translate.vietai.org/">MTet: Multi-domain Translation for English and Vietnamese</a>
+  📰 <a href="https://research.vietai.org/vit5/">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a>
+  
+  🌸 <a href="https://research.vietai.org/mtet/">MTet: Multi-domain Translation for English and Vietnamese</a>
   
   
   
