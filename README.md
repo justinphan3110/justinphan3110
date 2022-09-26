@@ -49,15 +49,6 @@
  <details>
  <summary><strong> More Details </strong></summary>
 
-
-## Getting Started
-
-```
-String myName = "Long Phan";
-String myFullName = "Phan Nguyen Hoang Long";
-String myGoalsIn5Years = "Getting a PHD in AI";
-```
-
 ## Connect 
 ☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up.
 
