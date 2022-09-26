@@ -22,15 +22,15 @@
  ## Recent Works
   
   
-  📝 <a href="https://openreview.net/pdf?id=UoEw6KigkUn">The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset</a> NeurIPS 2022
+  📝 <a href="https://openreview.net/pdf?id=UoEw6KigkUn">The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset</a> <i>NeurIPS 2022</i>
  
-  📝 <a href="https://aclanthology.org/2022.naacl-srw.18">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a> NAACL SRW 2022
+  📝 <a href="https://aclanthology.org/2022.naacl-srw.18">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a> <i>NAACL SRW 2022</i>
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
  
-  📝 <a href="https://arxiv.org/abs/2106.09997">SPBERT: An Efficient Pre-training BERT on SPARQL Queries for Question Answering over Knowledge Graphs</a> ICONIP 2021
+  📝 <a href="https://arxiv.org/abs/2106.09997">SPBERT: An Efficient Pre-training BERT on SPARQL Queries for Question Answering over Knowledge Graphs</a>  <i>ICONIP 2021</i>
 
-  📝 <a href="https://aclanthology.org/2021.nlp4prog-1.5/">CoTexT: Multi-task Learning with Code-Text Transformer</a> ACL NLP4Prog 2022
+  📝 <a href="https://aclanthology.org/2021.nlp4prog-1.5/">CoTexT: Multi-task Learning with Code-Text Transformer</a>  <i>ACL NLP4Prog 2022</i>
   
   📝 <a href="https://arxiv.org/abs/2105.13578">Hierarchical Transformer Encoders for Vietnamese Spelling Correction</a>
   
