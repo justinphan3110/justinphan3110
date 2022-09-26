@@ -20,6 +20,10 @@
  
  
  ## Recent Works
+  
+  
+  📝 <a href="https://openreview.net/pdf?id=UoEw6KigkUn">The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset</a>
+ 
   📝 <a href="https://aclanthology.org/2022.naacl-srw.18">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a>
   
   📝 <a href="https://arxiv.org/abs/2106.03598">SciFive: a text-to-text transformer model for biomedical literature</a>
