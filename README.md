@@ -19,8 +19,10 @@
  
  
  ## Recent Works
+   📝 <a href="https://arxiv.org/abs/2210.05610">MTet: Multi-domain Translation for English and Vietnamese</a> <i>In peer-reviewing for EACL 2023</i> 
   
-  
+   📝 <a href="https://arxiv.org/abs/2210.05598">Enriching Biomedical Knowledge for Vietnamese Low-resource Language Through Large-Scale Translation</a> <i>In peer-reviewing for EACL 2023</i> 
+
   📝 <a href="https://openreview.net/pdf?id=UoEw6KigkUn">The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset</a> <i>NeurIPS 2022</i>
  
   📝 <a href="https://aclanthology.org/2022.naacl-srw.18">ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation</a> <i>NAACL SRW 2022</i>
