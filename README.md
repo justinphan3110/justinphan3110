@@ -1,3 +1,4 @@
+ 
  <p align='center'> 
  https://longphan.ai
  </p>
@@ -5,7 +6,8 @@
 <a href="https://www.facebook.com/phanlongboy1"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/longphann/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/long-phan-3110//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en"><img height="30" src="https://raw.githubusercontent.com/justinphan3110/justinphan3110/master/icons/google_scholar.png"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=fVRQn4wAAAAJ&hl=en"><img height="32" src="https://img.icons8.com/color/512/google-scholar--v3.png"></a>&nbsp;&nbsp;
+
  
 
 
