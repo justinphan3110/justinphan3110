@@ -25,7 +25,7 @@
 
  
  
- ## Recent Works
+<!--  ## Recent Works
    📝 <a href="https://arxiv.org/abs/2210.05610">MTet: Multi-domain Translation for English and Vietnamese</a> <i>In peer-reviewing for EACL 2023</i> 
   
    📝 <a href="https://arxiv.org/abs/2210.05598">Enriching Biomedical Knowledge for Low-resource Language Through Large-Scale Translation</a> <i>In peer-reviewing for EACL 2023</i> 
@@ -59,7 +59,7 @@
  <summary><strong> More Details </strong></summary>
 
 ## Connect 
-☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up.
+☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up. -->
 
 ## Contribution
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinphan3110&layout=compact)](https://github.com/justinphan3110/github-readme-stats)
