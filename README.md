@@ -61,11 +61,11 @@
 ## Connect 
 ☕️    I love coffee so just send me a mesage on <a href="https://www.facebook.com/phanlongboy1">Facebook</a> or <a href="https://www.instagram.com/longphann/">Instagram</a> then we can meet up. -->
 
-## Contribution
+<!-- ## Contribution
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinphan3110&layout=compact)](https://github.com/justinphan3110/github-readme-stats)
   
 
-![Long Phan's github stats](https://github-readme-stats.vercel.app/api?username=justinphan3110&show_icons=true&theme=radical)
+![Long Phan's github stats](https://github-readme-stats.vercel.app/api?username=justinphan3110&show_icons=true&theme=radical) -->
 
 </details>
 </details>
