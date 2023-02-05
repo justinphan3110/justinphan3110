@@ -12,7 +12,7 @@
 
 
 
- ## About me 
+<!--  ## About me 
 <div align="left">
  <h4> Twitter AI Research <img height="20" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo-500x281.png"/> </h4> 
  <h4> Guest NLP Research Volunteer - BigScience Workshop at HuggingFace <img height="30" src="https://github.com/justinphan3110/justinphan3110/blob/master/icons/huggingface.png" </h4>
@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinphan3110" alt="justinphan3110" /> </p>
 
 </div>
-
+ -->
  
  
 <!--  ## Recent Works
